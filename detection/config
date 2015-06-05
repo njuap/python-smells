@@ -1,0 +1,11 @@
+parametersize: 5
+funclength: 100
+funcdepth: 3
+baseclass: 3
+classsize: 50
+compcomplexity: 3
+complength: 50
+lambdalength: 50
+messagechain: 5
+containerdepth: 3
+ifinrowexp: 50
